@@ -1,0 +1,22 @@
+.celebrityCard {
+  padding: 1%;
+  margin: 1%;
+  width: 25%;
+  height: 22em;
+  overflow: auto;
+  display: inline-block; }
+  .celebrityCard header {
+    font-weight: 700; }
+  .celebrityCard img {
+    max-width: 50%; }
+
+.dottedBorder {
+  border: 1px dotted black; }
+
+.even {
+  background-color: lightyellow; }
+
+.odd {
+  background-color: lightblue; }
+
+/*# sourceMappingURL=wysiwyg.css.map */
